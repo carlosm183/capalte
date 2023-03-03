@@ -1,6 +1,3 @@
-"Access-Control-Allow-Origin": "*",
-"Access-Control-Allow-Methods": "GET, POST, PUT, DELETE, OPTIONS",
-"Access-Control-Allow-Headers": "Origin, X-Requested-With, Content-Type, Accept, Authorization"
 {"type":"FeatureCollection", "features": [
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-63.130158,-17.821393]},"properties":{"LAYER":"Unknown Point Feature","SITE_ID":"12D","Latitude":-17.821393,"longitude":-63.130158}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-68.223371,-16.502982]},"properties":{"LAYER":"Unknown Point Feature","SITE_ID":"16F","Latitude":-16.502982,"longitude":-68.223371}},
